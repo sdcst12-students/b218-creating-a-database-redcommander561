@@ -203,7 +203,7 @@ def searches():
         exit()
     
     else:
-        print("type yes or no RIGHT NOW, NOTHING ELSE ONLY YES OR NO")
+        print("type only yes or no")
     return
 
 searches()
